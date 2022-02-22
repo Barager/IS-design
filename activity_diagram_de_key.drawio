@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T21:01:08.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lf8jgcqcvQlBANdfnwi6" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T09:17:22.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HXarFoe3yDqktwuUnmKn" version="16.6.1" type="github">
   <diagram id="2KmrYP-xQT_wF9Lwto3m" name="Page-1">
-    <mxGraphModel dx="920" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,16 @@
           <mxGeometry x="1460" y="605" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2Ed95oBEs6oWtpH4PC0-78" value="Home-viewing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="895" y="482.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="820" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2Ed95oBEs6oWtpH4PC0-79" value="Check deze even, gaat over home-viewing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="650" y="720" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2Ed95oBEs6oWtpH4PC0-81" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="740" as="sourcePoint" />
+            <mxPoint x="1040" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
