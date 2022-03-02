@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T15:18:32.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="S9t213ECmaObWyqWg62J" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T15:20:42.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="ZVBiFV7oMoznLBc6cDgW" version="16.6.4" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="731" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bXszsFQl_4HycH4wi_gx-1" value="&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;br class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;lato&amp;#34; , sans-serif&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="185" width="20" height="10" as="geometry" />
+          <mxGeometry x="190" y="285" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-1" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" width="200" height="710" as="geometry" />
+          <mxGeometry x="210" y="100" width="200" height="710" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-8" value="login(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yi_AXPvdwaK7do6kIIWc-1">
           <mxGeometry x="-80" y="80" width="140" height="20" as="geometry" />
@@ -46,19 +46,19 @@
           <mxGeometry x="-49.89999999999998" y="610" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-4" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="100" height="300" as="geometry" />
+          <mxGeometry x="550" y="210" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-3" value="Diagram A:&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;span&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the website is required. (assert login?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;The given name and pw are checked in the db, and if the pw is incorrect, the student may try again (indefinitely) (check db is een alt?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Once logged in, the student can request the available apartments for a particular city, which will be q&#39;d from the db. (check db sequence + retrieve)Í&lt;/font&gt;&lt;/li&gt;&lt;li&gt;The website displays available apartments to the student, in case they&#39;re available.&lt;/li&gt;&lt;li&gt;An apartment display may be opened, which queries the required data from the database. This is repeatable.&lt;/li&gt;&lt;li&gt;An application may be filled in, which creates a database entry, and notifies the admin department.&lt;/li&gt;&lt;li&gt;The department sends a confirmation email to the student.&lt;/li&gt;&lt;li&gt;If no apartments are available, the website displays a message inviting a signup for the mailing list.&lt;/li&gt;&lt;li&gt;For which the given email is checked in the database. If it isn&#39;t already on the mailing list, the database adds it to the list. In any case, the student receives a confirmation email.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;&lt;span&gt;website is required.&lt;/span&gt;website is required&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through thedasf&lt;span&gt;website is required.&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="110" width="980" height="200" as="geometry" />
+        <mxCell id="bXszsFQl_4HycH4wi_gx-3" value="Diagram A:&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;span&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the website is required. (assert login?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;The given name and pw are checked in the db, and if the pw is incorrect, the student may try again (indefinitely) (check db is een alt?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Once logged in, the student can request the available apartments for a particular city, which will be q&#39;d from the db. (check db sequence + retrieve)Í&lt;/font&gt;&lt;/li&gt;&lt;li&gt;The website displays available apartments to the student, in case they&#39;re available.&lt;/li&gt;&lt;li&gt;An apartment display may be opened, which queries the required data from the database. This is repeatable.&lt;/li&gt;&lt;li&gt;An application may be filled in, which creates a database entry, and notifies the admin department.&lt;/li&gt;&lt;li&gt;The department sends a confirmation email to the student.&lt;/li&gt;&lt;li&gt;If no apartments are available, the website displays a message inviting a signup for the mailing list.&lt;/li&gt;&lt;li&gt;For which the given email is checked in the database. If it isn&#39;t already on the mailing list, the database adds it to the list. In any case, the student receives a confirmation email.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;&lt;span&gt;website is required.&lt;/span&gt;website is required&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through thedasf&lt;span&gt;website is required.&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="980" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" width="20" height="710" as="geometry" />
+          <mxGeometry x="130" y="100" width="20" height="710" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-12" value="r1 = response: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="330" y="260" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-14" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="420" width="100" height="710" as="geometry" />
+          <mxGeometry x="420" y="100" width="100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-5" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="yi_AXPvdwaK7do6kIIWc-14">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -117,86 +117,86 @@
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-7" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1" source="yi_AXPvdwaK7do6kIIWc-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="170" y="80" as="sourcePoint" />
-            <mxPoint x="310" y="80" as="targetPoint" />
+            <mxPoint x="170" y="180" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="80" />
+              <mxPoint x="200" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-4" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="475" width="800" height="180" as="geometry" />
+          <mxGeometry x="760" y="280" width="800" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-6" value="check(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="140" height="20" as="geometry" />
+          <mxGeometry x="320" y="210" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-8" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" edge="1" parent="1" source="yi_AXPvdwaK7do6kIIWc-14" target="yi_AXPvdwaK7do6kIIWc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="529.9999999999999" y="100" as="sourcePoint" />
-            <mxPoint x="529.9999999999999" y="120" as="targetPoint" />
+            <mxPoint x="529.9999999999999" y="200" as="sourcePoint" />
+            <mxPoint x="529.9999999999999" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="200" />
-              <mxPoint x="400" y="160" />
-              <mxPoint x="480" y="160" />
-              <mxPoint x="369.99" y="120" />
+              <mxPoint x="410" y="300" />
+              <mxPoint x="400" y="260" />
+              <mxPoint x="480" y="260" />
+              <mxPoint x="369.99" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-10" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=none;endFill=0;rounded=0;startArrow=blockThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="190" as="sourcePoint" />
-            <mxPoint x="310" y="190" as="targetPoint" />
+            <mxPoint x="150" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="190" />
+              <mxPoint x="150" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-9" value="r2 = response: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="120" height="20" as="geometry" />
+          <mxGeometry x="170" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-13" value="getApartments(city)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-16" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=none;endFill=0;rounded=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="yi_AXPvdwaK7do6kIIWc-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="400" as="sourcePoint" />
-            <mxPoint x="310" y="400" as="targetPoint" />
+            <mxPoint x="150" y="500" as="sourcePoint" />
+            <mxPoint x="310" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="400" />
+              <mxPoint x="150" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-17" value="display(msg)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="80" height="20" as="geometry" />
+          <mxGeometry x="190" y="500" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-15" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" edge="1" parent="1" source="yi_AXPvdwaK7do6kIIWc-14" target="yi_AXPvdwaK7do6kIIWc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="434.86" y="360" as="sourcePoint" />
-            <mxPoint x="320" y="360" as="targetPoint" />
+            <mxPoint x="434.86" y="460" as="sourcePoint" />
+            <mxPoint x="320" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="360" />
-              <mxPoint x="380" y="350" />
-              <mxPoint x="375.36" y="360" />
-              <mxPoint x="455.36" y="360" />
-              <mxPoint x="345.35" y="320" />
+              <mxPoint x="410" y="460" />
+              <mxPoint x="380" y="450" />
+              <mxPoint x="375.36" y="460" />
+              <mxPoint x="455.36" y="460" />
+              <mxPoint x="345.35" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-10" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1" target="yi_AXPvdwaK7do6kIIWc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="139.99571428571434" y="270" as="sourcePoint" />
-            <mxPoint x="300.21000000000004" y="270" as="targetPoint" />
+            <mxPoint x="139.99571428571434" y="370" as="sourcePoint" />
+            <mxPoint x="300.21000000000004" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190.21" y="270" />
+              <mxPoint x="190.21" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-28" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=none;endFill=0;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1" source="yi_AXPvdwaK7do6kIIWc-6" target="yi_AXPvdwaK7do6kIIWc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="149.99571428571426" y="610" as="sourcePoint" />
-            <mxPoint x="300" y="610" as="targetPoint" />
+            <mxPoint x="149.99571428571426" y="710" as="sourcePoint" />
+            <mxPoint x="300" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200.21000000000004" y="610" />
+              <mxPoint x="200.21000000000004" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
