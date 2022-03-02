@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T14:09:03.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.4" etag="L8g3lNB4LzPeiCW7q4U5" type="github"><diagram id="JxKDznvsjkk3pJWxULHU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:15:27.327Z" agent="5.0 (X11)" etag="rAeEyQ9nWDbU3jgQ24Q2" version="16.6.4" type="github">
+  <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
+    <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-1" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-2" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;lifelineDashed=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-3" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-4" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="20" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
