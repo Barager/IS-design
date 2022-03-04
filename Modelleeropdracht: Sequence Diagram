@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:27:58.610Z" agent="5.0 (X11)" etag="0Kf5573kJ1IIpXtwcdZM" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:28:12.537Z" agent="5.0 (X11)" etag="77nGivT-L-OxLOfsAwFr" version="16.6.4" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="931" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,8 +594,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-73" value="display(waitingListInvite)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1890" width="140" height="20" as="geometry" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-73" value="display(waitingListInvitation)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1890" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
