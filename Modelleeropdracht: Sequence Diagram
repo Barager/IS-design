@@ -1,29 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:32:18.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="0qYKfIWTO2QvLBPZKKph" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:05:09.224Z" agent="5.0 (X11)" etag="vCyi4BhzfSXzfpQlMGsP" version="16.6.4" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="1339" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="540" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-14" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="960" width="20" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-2" value="break" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1120" width="455" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-4" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="960" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-15" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="960" width="60" height="689" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-23" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="100" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-1" value="&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;br class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;lato&amp;#34; , sans-serif&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="285" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-1" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="100" width="130" height="710" as="geometry" />
+          <mxGeometry x="210" y="100" width="200" height="710" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-8" value="login(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-1" vertex="1">
           <mxGeometry x="-80" y="80" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-11" value="getApartments(city)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-1" vertex="1">
-          <mxGeometry x="-80" y="270" width="120" height="20" as="geometry" />
+          <mxGeometry x="-49.9" y="270" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-18" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" parent="yi_AXPvdwaK7do6kIIWc-1" source="yi_AXPvdwaK7do6kIIWc-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-60.00428571428565" y="470" as="sourcePoint" />
-            <mxPoint x="60" y="470" as="targetPoint" />
+            <mxPoint x="100.21000000000001" y="470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-9.789999999999985" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bXszsFQl_4HycH4wi_gx-19" value="signUpMail(email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-1" vertex="1">
+          <mxGeometry x="-44.9" y="470" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-25" value="r4 = response: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-1" vertex="1">
           <mxGeometry x="119.99999999999999" y="570" width="120" height="20" as="geometry" />
@@ -39,14 +57,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yi_AXPvdwaK7do6kIIWc-4" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="510" width="100" height="300" as="geometry" />
+        <mxCell id="bXszsFQl_4HycH4wi_gx-29" value="sendConfirmMail(email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-1" vertex="1">
+          <mxGeometry x="-49.89999999999998" y="610" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-3" value="Diagram A:&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;span&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the website is required. (assert login?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;The given name and pw are checked in the db, and if the pw is incorrect, the student may try again (indefinitely) (check db is een alt?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Once logged in, the student can request the available apartments for a particular city, which will be q&#39;d from the db. (check db sequence + retrieve)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;The website displays available apartments to the student, in case they&#39;re available.&lt;/li&gt;&lt;li&gt;An apartment display may be opened, which queries the required data from the database. This is repeatable.&lt;/li&gt;&lt;li&gt;An application may be filled in, which creates a database entry, and notifies the admin department.&lt;/li&gt;&lt;li&gt;The department sends a confirmation email to the student.&lt;/li&gt;&lt;li&gt;If no apartments are available, the website displays a message inviting a signup for the mailing list.&lt;/li&gt;&lt;li&gt;For which the given email is checked in the database. If it isn&#39;t already on the mailing list, the database adds it to the list. In any case, the student receives a confirmation email.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;&lt;span&gt;website is required.&lt;/span&gt;website is required&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through thedasf&lt;span&gt;website is required.&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="50" width="990" height="200" as="geometry" />
+        <mxCell id="bXszsFQl_4HycH4wi_gx-3" value="Diagram A:&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;span&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the website is required. (assert login?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;The given name and pw are checked in the db, and if the pw is incorrect, the student may try again (indefinitely) (check db is een alt?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Once logged in, the student can request the available apartments for a particular city, which will be q&#39;d from the db. (check db sequence + retrieve)Í&lt;/font&gt;&lt;/li&gt;&lt;li&gt;The website displays available apartments to the student, in case they&#39;re available.&lt;/li&gt;&lt;li&gt;An apartment display may be opened, which queries the required data from the database. This is repeatable.&lt;/li&gt;&lt;li&gt;An application may be filled in, which creates a database entry, and notifies the admin department.&lt;/li&gt;&lt;li&gt;The department sends a confirmation email to the student.&lt;/li&gt;&lt;li&gt;If no apartments are available, the website displays a message inviting a signup for the mailing list.&lt;/li&gt;&lt;li&gt;For which the given email is checked in the database. If it isn&#39;t already on the mailing list, the database adds it to the list. In any case, the student receives a confirmation email.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;&lt;span&gt;website is required.&lt;/span&gt;website is required&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through thedasf&lt;span&gt;website is required.&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="660" y="50" width="980" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="100" width="20" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="yi_AXPvdwaK7do6kIIWc-12" value="r1 = response: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="260" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-14" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="100" width="100" height="710" as="geometry" />
@@ -90,6 +111,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bXszsFQl_4HycH4wi_gx-14" value="r3 = response: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-14" vertex="1">
+          <mxGeometry x="-60" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXszsFQl_4HycH4wi_gx-27" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" parent="yi_AXPvdwaK7do6kIIWc-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="49.769999999999754" y="160.0000000000001" as="sourcePoint" />
+            <mxPoint x="-109.99923076923073" y="160.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-9.730000000000018" y="190" />
+              <mxPoint x="-39.73000000000002" y="180" />
+              <mxPoint x="-44.370000000000005" y="190" />
+              <mxPoint x="35.629999999999995" y="190" />
+              <mxPoint x="-74.38" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-7" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" parent="1" source="yi_AXPvdwaK7do6kIIWc-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="180" as="sourcePoint" />
@@ -100,10 +137,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-4" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="280" width="800" height="180" as="geometry" />
+          <mxGeometry x="760" y="280" width="800" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-6" value="check(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXszsFQl_4HycH4wi_gx-8" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" parent="1" source="yi_AXPvdwaK7do6kIIWc-14" target="yi_AXPvdwaK7do6kIIWc-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="529.9999999999999" y="200" as="sourcePoint" />
+            <mxPoint x="529.9999999999999" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="300" />
+              <mxPoint x="400" y="260" />
+              <mxPoint x="480" y="260" />
+              <mxPoint x="369.99" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yi_AXPvdwaK7do6kIIWc-10" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=none;endFill=0;rounded=0;startArrow=blockThin;startFill=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -132,6 +181,19 @@
         <mxCell id="bXszsFQl_4HycH4wi_gx-17" value="display(msg)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="500" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="bXszsFQl_4HycH4wi_gx-15" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" parent="1" source="yi_AXPvdwaK7do6kIIWc-14" target="yi_AXPvdwaK7do6kIIWc-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="434.86" y="460" as="sourcePoint" />
+            <mxPoint x="320" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="460" />
+              <mxPoint x="380" y="450" />
+              <mxPoint x="375.36" y="460" />
+              <mxPoint x="455.36" y="460" />
+              <mxPoint x="345.35" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bXszsFQl_4HycH4wi_gx-10" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" parent="1" target="yi_AXPvdwaK7do6kIIWc-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="139.99571428571434" y="370" as="sourcePoint" />
@@ -150,11 +212,212 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-19" value="signUpMail(email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="175" y="575" width="110" height="20" as="geometry" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-3" value="[verified]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1122.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-29" value="sendConfirmMail(email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160.00000000000003" y="710" width="140" height="20" as="geometry" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-4" value="par" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1250" width="790" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-8" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1440" width="730" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-10" value="loop (*)" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1480" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-11" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="1860" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-12" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="2000" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-1" value="loop (1, *)" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1020" width="795" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-13" value="Sign Up for Mailing List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="2030" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-31" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QYCr6BwCohUltQlDZTVw-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="1050" as="sourcePoint" />
+            <mxPoint x="240" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-32" value="login(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1030" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-33" value="check(name, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1050" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-34" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="237" y="1070" as="sourcePoint" />
+            <mxPoint x="370" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="277" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-35" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1109.88" as="sourcePoint" />
+            <mxPoint x="235.0007692307693" y="1109.8800000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335.27" y="1139.88" />
+              <mxPoint x="305.27" y="1129.88" />
+              <mxPoint x="300.63" y="1139.88" />
+              <mxPoint x="380.63" y="1139.88" />
+              <mxPoint x="270.62" y="1099.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-36" value="verified = reponse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1090" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-37" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1090" as="sourcePoint" />
+            <mxPoint x="370" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-38" value="processQuery(query)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1070" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-39" value="redirect(homepage)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-40" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="233" y="1170" as="sourcePoint" />
+            <mxPoint x="100" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-41" value="display(&quot;invalid&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-42" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="233" y="1220" as="sourcePoint" />
+            <mxPoint x="100" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="1340" as="sourcePoint" />
+            <mxPoint x="805" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="1270" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-5" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="QYCr6BwCohUltQlDZTVw-43">
+          <mxGeometry width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-6" value="Sign Up for Mailing List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QYCr6BwCohUltQlDZTVw-43">
+          <mxGeometry x="60" y="15" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-45" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="235" y="1370" as="sourcePoint" />
+            <mxPoint x="368" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-46" value="getAppartments()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-47" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1400" as="sourcePoint" />
+            <mxPoint x="370" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-48" value="processQuery(query)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1380" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-49" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1419.8800000000003" as="sourcePoint" />
+            <mxPoint x="235.00076923076927" y="1419.8800000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335.27" y="1449.88" />
+              <mxPoint x="305.27" y="1439.88" />
+              <mxPoint x="300.63" y="1449.88" />
+              <mxPoint x="380.63" y="1449.88" />
+              <mxPoint x="270.62" y="1409.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-50" value="data = getApartments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1400" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-51" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="235" y="1500" as="sourcePoint" />
+            <mxPoint x="368" y="1500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-52" value="openAppartment()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1480" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-53" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1520" as="sourcePoint" />
+            <mxPoint x="370" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-54" value="processQuery(query)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1500" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-55" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1540.0000000000002" as="sourcePoint" />
+            <mxPoint x="235.00076923076927" y="1540.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335.27" y="1570" />
+              <mxPoint x="305.27" y="1560" />
+              <mxPoint x="300.63" y="1570" />
+              <mxPoint x="380.63" y="1570" />
+              <mxPoint x="270.62" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-56" value="appData = getApartment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="1520" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-57" value="openAppartment()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1540" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QYCr6BwCohUltQlDZTVw-58" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="1560" as="sourcePoint" />
+            <mxPoint x="233" y="1560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
