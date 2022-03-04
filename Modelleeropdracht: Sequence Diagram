@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T15:26:49.755Z" agent="5.0 (X11)" etag="GuAKFsqlrGCiXpIUAGja" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T15:48:38.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="GYEmBvMmJzXYRMR1QJx0" version="16.6.5" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="675" dy="-787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Lifelines" parent="0" visible="0" />
@@ -122,7 +122,7 @@
             <mxPoint x="710" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-43" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="QYCr6BwCohUltQlDZTVw-43" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="150" y="1550" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-5" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="QYCr6BwCohUltQlDZTVw-43">
@@ -423,17 +423,17 @@
           <mxGeometry x="165" y="2220" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-37" value="Lifelines Diagram B" parent="0" />
-        <mxCell id="tY22_OVKfamfm3dCL-XN-38" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-37">
-          <mxGeometry x="630" y="1270" width="800" height="180" as="geometry" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-38" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aanname:&lt;/div&gt;&lt;div&gt;Het checken van documenten loopt synchroon (dus niet parallel)&lt;/div&gt;&lt;div&gt;Het doorsturen van een certificaat gebeurt synchroon (dus direct na ontvangts)&lt;/div&gt;&lt;div&gt;Zowel in de tekst van Seidl et al. en online vonden wij dat een sd arguments en return-values mag hebben. &lt;br&gt;Al was dit niet erg duidelijk gemaakt in de tekst of de video.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-37">
+          <mxGeometry x="880" y="1220" width="810" height="280" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-39" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-37">
           <mxGeometry x="200" y="1250" width="20" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-40" value="Administrative department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-37">
-          <mxGeometry x="280" y="1250" width="100" height="1040" as="geometry" />
+          <mxGeometry x="270" y="1250" width="100" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-43" value="Legal department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-37">
-          <mxGeometry x="440" y="1250" width="100" height="1050" as="geometry" />
+          <mxGeometry x="400" y="1250" width="100" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" parent="0" />
         <mxCell id="tY22_OVKfamfm3dCL-XN-44" value="par" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
@@ -453,6 +453,12 @@
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-85" value="break" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="130" y="2100" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tY22_OVKfamfm3dCL-XN-49" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
+          <mxGeometry x="530" y="1250" width="20" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="tY22_OVKfamfm3dCL-XN-50" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;fontSize=10;rotation=-30;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
+          <mxGeometry x="550" y="1260" width="27.78" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" parent="0" />
       </root>
