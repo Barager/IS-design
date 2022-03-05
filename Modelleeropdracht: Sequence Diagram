@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T20:07:14.087Z" agent="5.0 (X11)" etag="-QAjqB1c7m98rs1xd9w9" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T20:08:44.708Z" agent="5.0 (X11)" etag="cJAj1IXMucPWKGhqtdqt" version="16.6.6" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="5209" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="-717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Lifelines" parent="0" visible="0" />
@@ -618,6 +618,12 @@
         </mxCell>
         <mxCell id="rBAfJi_DJKSqTiBntoTL-123" value="NOTE: contract wordt nu ook verwerkt door administratieve dep, maar dat staat eigenlijk niet i de tekts...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="-210" y="2070" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rBAfJi_DJKSqTiBntoTL-124" value="student" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
+          <mxGeometry x="-730" y="1320" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rBAfJi_DJKSqTiBntoTL-125" value="caretaker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
+          <mxGeometry x="-381" y="1320" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" style="" parent="0" />
         <mxCell id="tY22_OVKfamfm3dCL-XN-54" value="selectCandidate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="tY22_OVKfamfm3dCL-XN-36" vertex="1">
