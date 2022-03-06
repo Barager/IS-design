@@ -1,9 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:19:58.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="OkBlAdWbPKCUKKsl76TG" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:34:54.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vVAXyFfGITRDBwajEkcR" version="16.6.6" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="3607" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="-614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" value="Diagram A" parent="0" visible="0" />
+        <mxCell id="1" value="Diagram A" parent="0" />
         <mxCell id="QYCr6BwCohUltQlDZTVw-77" value="sd Applying for appartments" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" parent="1" vertex="1">
           <mxGeometry x="40" y="1200" width="692.5" height="1120" as="geometry" />
         </mxCell>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-74" value="[student interested]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="yi_AXPvdwaK7do6kIIWc-4" vertex="1">
           <mxGeometry x="-390" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDne9wYC_DaUFAcwy-9P-3" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="yi_AXPvdwaK7do6kIIWc-4">
+          <mxGeometry x="-460" y="610" width="520" height="210" as="geometry" />
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-15" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="1240" width="60" height="1050" as="geometry" />
@@ -190,7 +193,7 @@
         <mxCell id="QYCr6BwCohUltQlDZTVw-57" value="apply(userData)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="1900" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-58" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="QYCr6BwCohUltQlDZTVw-58" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=open;endFill=0;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="168.5" y="1920" as="sourcePoint" />
             <mxPoint x="301.5" y="1920" as="targetPoint" />
@@ -413,9 +416,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-11" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="99.38" y="1860" width="521.25" height="216" as="geometry" />
-        </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-12" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="99.38" y="2200" width="202.5" height="50" as="geometry" />
         </mxCell>
@@ -428,7 +428,7 @@
             <mxPoint x="1389.5300000000002" y="2321.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-37" value="Lifelines Diagram B" style="" parent="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-37" value="Lifelines Diagram B" style="" parent="0" visible="0" />
         <mxCell id="QYCr6BwCohUltQlDZTVw-91" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="tY22_OVKfamfm3dCL-XN-37" vertex="1">
           <mxGeometry x="-620" y="1254" width="20" height="500" as="geometry" />
         </mxCell>
@@ -504,7 +504,7 @@
             <mxPoint x="-280" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" visible="0" />
         <mxCell id="ZDne9wYC_DaUFAcwy-9P-1" value="sd signing contract" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=110;height=20;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="-1610" y="1200" width="650" height="820" as="geometry" />
         </mxCell>
@@ -571,7 +571,10 @@
         <mxCell id="ZCIL0lh6HGLuJPtfOk5W-6" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=40;height=20;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="-700" y="1950" width="420" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" style="" parent="0" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-11" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="tY22_OVKfamfm3dCL-XN-35" vertex="1">
+          <mxGeometry x="-460" y="620" width="521.25" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" style="" parent="0" visible="0" />
         <mxCell id="QYCr6BwCohUltQlDZTVw-97" value="{today &amp;lt; startDate + 10}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tY22_OVKfamfm3dCL-XN-36" vertex="1">
           <mxGeometry x="-700" y="1910" width="140" height="20" as="geometry" />
         </mxCell>
