@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:53:53.229Z" agent="5.0 (X11)" etag="1vwUeUzRb6SV6deD3iOY" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:55:51.021Z" agent="5.0 (X11)" etag="29ipUat-GGq1sPglx-LJ" version="16.6.6" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
     <mxGraphModel dx="711" dy="-773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,8 +200,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-57" value="apply(userData)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1900" width="100" height="20" as="geometry" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-57" value="apply(applicationForm)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="1900" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-58" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=open;endFill=0;rounded=0;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -224,8 +224,8 @@
         <mxCell id="tY22_OVKfamfm3dCL-XN-2" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="921" y="1514.5" width="600" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="QYCr6BwCohUltQlDZTVw-60" value="insertDB(userData)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1919" width="120" height="20" as="geometry" />
+        <mxCell id="QYCr6BwCohUltQlDZTVw-60" value="insertDB(application)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1919" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tY22_OVKfamfm3dCL-XN-7" value="[email not on mailinglist]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="976" y="1530" width="140" height="20" as="geometry" />
