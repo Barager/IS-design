@@ -1,9 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:18:44.139Z" agent="5.0 (X11)" etag="MI8Ui-DGC8cf6nsYMsVu" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:19:41.601Z" agent="5.0 (X11)" etag="oUHI4Er-IkHOeGCxSTIu" version="16.6.6" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="1673" dy="-238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4498" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" value="Lifelines" parent="0" />
+        <mxCell id="1" value="Lifelines" parent="0" visible="0" />
         <mxCell id="QYCr6BwCohUltQlDZTVw-77" value="sd Applying for appartments" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" parent="1" vertex="1">
           <mxGeometry x="40" y="1200" width="692.5" height="1120" as="geometry" />
         </mxCell>
@@ -428,7 +428,7 @@
             <mxPoint x="1389.5300000000002" y="2321.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-37" value="Lifelines Diagram B" style="" parent="0" visible="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-37" value="Lifelines Diagram B" style="" parent="0" />
         <mxCell id="tY22_OVKfamfm3dCL-XN-38" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aanname:&lt;/div&gt;&lt;div&gt;Het checken van documenten loopt synchroon (dus niet parallel)&lt;/div&gt;&lt;div&gt;Het doorsturen van een certificaat gebeurt synchroon (dus direct na ontvangts)&lt;/div&gt;&lt;div&gt;Zowel in de tekst van Seidl et al. en online vonden wij dat een sd arguments en return-values mag hebben. &lt;br&gt;Al was dit niet erg duidelijk gemaakt in de tekst of de video.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tY22_OVKfamfm3dCL-XN-37" vertex="1">
           <mxGeometry x="880" y="1220" width="810" height="280" as="geometry" />
         </mxCell>
@@ -546,7 +546,7 @@
             <mxPoint x="-40" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" visible="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" />
         <mxCell id="U76cDiXKHKk_LSnr_0OS-19" value="sd RegisterPermanentRejection" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=190;height=30;" parent="tY22_OVKfamfm3dCL-XN-35" vertex="1">
           <mxGeometry x="-470" y="2460" width="585" height="230" as="geometry" />
         </mxCell>
@@ -634,7 +634,7 @@
         <mxCell id="ZCIL0lh6HGLuJPtfOk5W-6" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=40;height=20;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="-460" y="2240" width="420" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" style="" parent="0" visible="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-36" value="Messages" style="" parent="0" />
         <mxCell id="tY22_OVKfamfm3dCL-XN-54" value="selectCandidate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="tY22_OVKfamfm3dCL-XN-36" vertex="1">
           <mxGeometry x="338" y="1300" width="90" height="20" as="geometry" />
         </mxCell>
