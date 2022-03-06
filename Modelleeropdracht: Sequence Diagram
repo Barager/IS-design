@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:35:34.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RImCcwRKXhMeJOMVHW4N" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:44:18.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5SXCGvaJB6_BpHsJVoQN" version="16.6.6" type="github">
   <diagram id="JxKDznvsjkk3pJWxULHU" name="Page-1">
-    <mxGraphModel dx="733" dy="-614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Diagram A" parent="0" />
@@ -34,17 +34,27 @@
         <mxCell id="ZDne9wYC_DaUFAcwy-9P-3" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="yi_AXPvdwaK7do6kIIWc-4">
           <mxGeometry x="-460" y="620" width="520" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="ZDne9wYC_DaUFAcwy-9P-4" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=open;endFill=0;rounded=0;dashed=1;" edge="1" parent="yi_AXPvdwaK7do6kIIWc-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-255" y="610.0000000000002" as="sourcePoint" />
+            <mxPoint x="-389.99923076923073" y="610.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-289.73" y="640" />
+              <mxPoint x="-319.73" y="630" />
+              <mxPoint x="-324.37" y="640" />
+              <mxPoint x="-244.37" y="640" />
+              <mxPoint x="-354.38" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZDne9wYC_DaUFAcwy-9P-5" value="display(appData)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yi_AXPvdwaK7do6kIIWc-4">
+          <mxGeometry x="-380" y="590" width="110" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-15" value="Website" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="1240" width="60" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-23" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="1240" width="100" height="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-3" value="Diagram A:&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;span&gt;Whenever a student wants to apply for a new apartment, a login through the&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the website is required. (assert login?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;The given name and pw are checked in the db, and if the pw is incorrect, the student may try again (indefinitely) (check db is een alt?)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;lato, sans-serif&quot;&gt;Once logged in, the student can request the available apartments for a particular city, which will be q&#39;d from the db. (check db sequence + retrieve)Í&lt;/font&gt;&lt;/li&gt;&lt;li&gt;The website displays available apartments to the student, in case they&#39;re available.&lt;/li&gt;&lt;li&gt;An apartment display may be opened, which queries the required data from the database. This is repeatable.&lt;/li&gt;&lt;li&gt;An application may be filled in, which creates a database entry, and notifies the admin department.&lt;/li&gt;&lt;li&gt;The department sends a confirmation email to the student.&lt;/li&gt;&lt;li&gt;If no apartments are available, the website displays a message inviting a signup for the mailing list.&lt;/li&gt;&lt;li&gt;For which the given email is checked in the database. If it isn&#39;t already on the mailing list, the database adds it to the list. In any case, the student receives a confirmation email.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;&lt;span&gt;website is required.&lt;/span&gt;website is required&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 647.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.983173)&quot;&gt;Whenever a student wants to apply for a new apartment, a login through thedasf&lt;span&gt;website is required.&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -892.906px ; margin-right: -892.906px ; left: 54px ; top: 665.469px ; font-size: 16.5px ; font-family: sans-serif ; transform: scalex(0.975094)&quot;&gt;website is required. &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="831" y="1830" width="980" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="bXszsFQl_4HycH4wi_gx-4" value="Diagram B:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;After selecting a new tenant, the admin dep. sends a confirmation email, requesting certificate.&lt;/li&gt;&lt;li&gt;Admin dep. requests draft contract from legal dep.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Legal dep. processes this, sends back draft contract.&lt;/li&gt;&lt;li&gt;Meanwhile, student can send certificate to admin dep. which is forwarded to legal dep.&lt;/li&gt;&lt;li&gt;Upon receiving certificate, legal dep. processes and sends final contract to admin dep. who send it to student,&lt;br&gt;with request to send the signed doc to the legal dep.&lt;/li&gt;&lt;li&gt;After this is done, legal dep. processes signed contract, admin dep. sends notification to caretaker for key transfer.&lt;/li&gt;&lt;li&gt;Student might not responds to requests, after 10 days of no response, admin dep. sends reminder once.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Second no response, or &#39;no interest&#39;, admin dep. registers permanent rejection with legal dep. and notifies student about permanent rejection.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="1200" width="800" height="180" as="geometry" />
         </mxCell>
         <mxCell id="QYCr6BwCohUltQlDZTVw-3" value="[verified]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="1402.5" width="60" height="20" as="geometry" />
@@ -504,7 +514,7 @@
             <mxPoint x="-280" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" visible="0" />
+        <mxCell id="tY22_OVKfamfm3dCL-XN-35" value="Combined Fragments" style="" parent="0" />
         <mxCell id="ZDne9wYC_DaUFAcwy-9P-1" value="sd signing contract" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=110;height=20;" vertex="1" parent="tY22_OVKfamfm3dCL-XN-35">
           <mxGeometry x="-1610" y="1200" width="650" height="820" as="geometry" />
         </mxCell>
