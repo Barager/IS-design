@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T11:13:29.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vXd2p9mwHJ4VkILnc3_G" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T11:13:42.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HtXRSpixRnl5irDp-B_r" version="17.1.3" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="3061" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1926" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="lUO3ND1-bbdEJJV8VssK-45" value="&lt;span style=&quot;font-size: 10px&quot;&gt;eisen controleren via studiegids&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
           <mxGeometry x="250" y="61.56" width="90" height="36.88" as="geometry" />
         </mxCell>
-        <mxCell id="lUO3ND1-bbdEJJV8VssK-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-19" target="lUO3ND1-bbdEJJV8VssK-152">
+        <mxCell id="lUO3ND1-bbdEJJV8VssK-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-67" target="lUO3ND1-bbdEJJV8VssK-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-19" value="&lt;span style=&quot;font-size: 10px&quot;&gt;samengesteld vakkenpakket invullen SPA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
