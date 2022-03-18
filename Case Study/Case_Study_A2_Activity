@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T16:25:01.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="J2xo9AfwgD6MjYjPfnLX" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T16:25:26.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5XDTy55Jqbu5aHHw2_DW" version="17.1.3" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="791" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="498" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-17" value="&lt;span style=&quot;font-size: 10px&quot;&gt;vaste minor invullen SPA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="740" y="346" width="90" height="36.88" as="geometry" />
+          <mxGeometry x="750" y="346" width="90" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-18" target="lUO3ND1-bbdEJJV8VssK-69">
           <mxGeometry relative="1" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pu5_PShdpCcZi_5vqe2i-4" value="d" style="rhombus;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="850" y="349.43999999999994" width="30" height="30" as="geometry" />
+          <mxGeometry x="860" y="349.43999999999994" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="pu5_PShdpCcZi_5vqe2i-6" target="lUO3ND1-bbdEJJV8VssK-19">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="875" y="399.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pu5_PShdpCcZi_5vqe2i-10" value="[ gedeeltelijk toelaatbaar ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="865" y="326" width="130" height="20" as="geometry" />
+          <mxGeometry x="875" y="326" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pu5_PShdpCcZi_5vqe2i-11" value="[ samengesteld vakkenpakket ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
           <mxGeometry x="390" y="200" width="150" height="20" as="geometry" />
@@ -173,7 +173,7 @@
         <mxCell id="lUO3ND1-bbdEJJV8VssK-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="pu5_PShdpCcZi_5vqe2i-4" target="lUO3ND1-bbdEJJV8VssK-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="865" y="420" />
+              <mxPoint x="875" y="420" />
               <mxPoint x="1345" y="420" />
             </Array>
           </mxGeometry>
@@ -326,7 +326,7 @@
           <mxGeometry x="460" y="349.43999999999994" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-344" value="&lt;font style=&quot;font-size: 9px&quot;&gt;[ voldaan aan eisen ]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="650" y="340" width="100" height="20" as="geometry" />
+          <mxGeometry x="650" y="346" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-347" value="[ niet voldaan aan eisen ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
           <mxGeometry x="490" y="406" width="130" height="20" as="geometry" />
