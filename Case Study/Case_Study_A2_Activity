@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T17:12:58.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uVG0sAv9Uv0Qe3eACSQr" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T17:17:04.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5CcNg2OlM6uMMc1JWQ-q" version="17.1.3" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="1384" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
           <mxGeometry x="2270" y="210" width="450" height="119.59" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-290" value="intekenen vakken via SIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="2433" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="lUO3ND1-bbdEJJV8VssK-291" target="lUO3ND1-bbdEJJV8VssK-292" edge="1">
           <mxGeometry relative="1" as="geometry" />
