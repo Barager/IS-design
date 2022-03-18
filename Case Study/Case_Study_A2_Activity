@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T16:10:51.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PTXsFI77Y0fS6C7XBaF0" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T16:11:15.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eyr_HZudlSReV6JxH83d" version="17.1.3" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="1120" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="611" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="lUO3ND1-bbdEJJV8VssK-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-20" target="lUO3ND1-bbdEJJV8VssK-305">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="393" y="225" />
+              <mxPoint x="393" y="238" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,7 +152,7 @@
         <mxCell id="lUO3ND1-bbdEJJV8VssK-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;startArrow=none;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-315" target="pu5_PShdpCcZi_5vqe2i-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1115" y="248" />
+              <mxPoint x="1115" y="318" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,13 +241,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-305" value="&lt;span style=&quot;font-size: 10px&quot;&gt;keuzevakken bepalen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="640" y="206.56" width="80" height="36.88" as="geometry" />
+          <mxGeometry x="640" y="220" width="80" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=11;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-309" target="pu5_PShdpCcZi_5vqe2i-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-309" value="&lt;span style=&quot;font-size: 10px&quot;&gt;vakeisen controleren via studiegids&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="760" y="206.56" width="100" height="36.88" as="geometry" />
+          <mxGeometry x="760" y="220" width="100" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=11;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-310" target="lUO3ND1-bbdEJJV8VssK-152">
           <mxGeometry relative="1" as="geometry" />
