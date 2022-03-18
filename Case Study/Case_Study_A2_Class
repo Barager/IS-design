@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T09:44:02.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ruf_LQEPvNTHnYA9Ftxg" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T09:47:25.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="RO_FFv2RmGb5VuNBsCAv" version="17.1.3" type="github">
   <diagram id="BlN8Y3AVtxM05M-11UUF" name="Page-1">
-    <mxGraphModel dx="1762" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,7 +719,7 @@
         <mxCell id="qobg9d0xi1iJDnK8Fs1T-67" value="Academisch begeleider" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="-12" width="150" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="qobg9d0xi1iJDnK8Fs1T-68" value="+ Stageplan: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qobg9d0xi1iJDnK8Fs1T-67" vertex="1">
+        <mxCell id="qobg9d0xi1iJDnK8Fs1T-68" value="+ contactGegevens: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qobg9d0xi1iJDnK8Fs1T-67" vertex="1">
           <mxGeometry y="26" width="150" height="176" as="geometry" />
         </mxCell>
         <mxCell id="qobg9d0xi1iJDnK8Fs1T-69" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.493;exitY=1.014;exitDx=0;exitDy=0;entryX=1.006;entryY=0.439;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" parent="1" source="qobg9d0xi1iJDnK8Fs1T-68" target="qobg9d0xi1iJDnK8Fs1T-32" edge="1">
@@ -767,7 +767,7 @@
         <mxCell id="qobg9d0xi1iJDnK8Fs1T-80" value="Examencommissie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-150" y="-390" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qobg9d0xi1iJDnK8Fs1T-81" value="+ Stageplan: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qobg9d0xi1iJDnK8Fs1T-80" vertex="1">
+        <mxCell id="qobg9d0xi1iJDnK8Fs1T-81" value="+ behandelTermijn: [0..8]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qobg9d0xi1iJDnK8Fs1T-80" vertex="1">
           <mxGeometry y="26" width="150" height="64" as="geometry" />
         </mxCell>
         <mxCell id="qobg9d0xi1iJDnK8Fs1T-83" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
