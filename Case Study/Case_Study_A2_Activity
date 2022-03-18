@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T15:35:48.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="O3KSrrjm6bJgSYab8AeA" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T15:38:43.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vQ1iEz-G88-ZiuWkcwJQ" version="17.1.3" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="1248" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,14 +226,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUO3ND1-bbdEJJV8VssK-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=9;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-288" target="lUO3ND1-bbdEJJV8VssK-298">
+        <mxCell id="lUO3ND1-bbdEJJV8VssK-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=9;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-288" target="lUO3ND1-bbdEJJV8VssK-298">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUO3ND1-bbdEJJV8VssK-288" value="intekenen vakken via SIS" style="html=1;shape=mxgraph.sysml.callBehAct;whiteSpace=wrap;align=center;comic=0;fontSize=9;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="1920" y="106.69" width="150" height="53.31" as="geometry" />
+        <mxCell id="lUO3ND1-bbdEJJV8VssK-288" value="&lt;font style=&quot;font-size: 11px&quot;&gt;intekenen vakken via SIS&lt;/font&gt;" style="html=1;shape=mxgraph.sysml.callBehAct;whiteSpace=wrap;align=center;comic=0;fontSize=9;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
+          <mxGeometry x="1920" y="106.69" width="170" height="53.31" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-298" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;comic=0;fontSize=9;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-28">
-          <mxGeometry x="2100" y="118.35" width="30" height="30" as="geometry" />
+          <mxGeometry x="2110" y="118.35" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUO3ND1-bbdEJJV8VssK-98" value="Examencommissie" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="9vvZqZG8gAL7Y4IAgQr2-26">
           <mxGeometry x="20" y="510" width="2160" height="130" as="geometry" />
