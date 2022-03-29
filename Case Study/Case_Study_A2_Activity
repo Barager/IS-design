@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T13:51:11.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="oG5MDEbHvmsx6awM50yY" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T15:05:14.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="AKYpUFU8QHzhBlYHDOgS" version="17.2.4" type="github">
   <diagram id="utYTk5GngKESv2m9YyfX" name="Page-1">
-    <mxGraphModel dx="3495" dy="2085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="lUO3ND1-bbdEJJV8VssK-18" value="&lt;span style=&quot;font-size: 10px&quot;&gt;organisatie zoeken&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9vvZqZG8gAL7Y4IAgQr2-28" vertex="1">
           <mxGeometry x="640" y="50.620000000000005" width="80" height="36.88" as="geometry" />
         </mxCell>
-        <mxCell id="lUO3ND1-bbdEJJV8VssK-100" value="[&amp;nbsp;&lt;font style=&quot;font-size: 9px&quot;&gt;stage/project&amp;nbsp;&lt;/font&gt;]" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-20" target="lUO3ND1-bbdEJJV8VssK-46" edge="1">
+        <mxCell id="lUO3ND1-bbdEJJV8VssK-100" value="[&amp;nbsp;&lt;font style=&quot;font-size: 9px&quot;&gt;stage&amp;nbsp;&lt;/font&gt;]" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;" parent="9vvZqZG8gAL7Y4IAgQr2-28" source="lUO3ND1-bbdEJJV8VssK-20" target="lUO3ND1-bbdEJJV8VssK-46" edge="1">
           <mxGeometry x="-0.079" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
