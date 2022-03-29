@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T14:50:40.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="B11wIZrlDXYCk_Y_2nko" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T14:52:48.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="JJnNy3N0HUE985SCi9oU" version="17.2.4" type="github">
   <diagram id="7qHK__-2kz6GD7rlbfan" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,17 +544,11 @@
         <mxCell id="H7MtAxZmlZf_EOp3D4YT-166" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;sd&lt;/b&gt;  Intekenen EC entiteiten&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=156.59;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;" parent="1" vertex="1">
           <mxGeometry x="1710" y="505" width="650" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="H7MtAxZmlZf_EOp3D4YT-167" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20margin-left%3A%205px%20%3B%20text-align%3A%20left%26quot%3B%26gt%3B%26lt%3Bb%26gt%3Bref%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22html%3D1%3Bshape%3Dmxgraph.sysml.package%3Boverflow%3Dfill%3BlabelX%3D95%3Balign%3Dleft%3BspacingLeft%3D5%3BverticalAlign%3Dtop%3BspacingTop%3D-3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22230%22%20width%3D%22440%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="H7MtAxZmlZf_EOp3D4YT-168" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20margin-left%3A%205px%20%3B%20text-align%3A%20left%26quot%3B%26gt%3B%26lt%3Bb%26gt%3Bref%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22html%3D1%3Bshape%3Dmxgraph.sysml.package%3Boverflow%3Dfill%3BlabelX%3D95%3Balign%3Dleft%3BspacingLeft%3D5%3BverticalAlign%3Dtop%3BspacingTop%3D-3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22230%22%20width%3D%22440%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2008" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H7MtAxZmlZf_EOp3D4YT-169" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20margin-left%3A%205px%20%3B%20text-align%3A%20left%26quot%3B%26gt%3B%26lt%3Bb%26gt%3Bref%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22html%3D1%3Bshape%3Dmxgraph.sysml.package%3Boverflow%3Dfill%3BlabelX%3D95%3Balign%3Dleft%3BspacingLeft%3D5%3BverticalAlign%3Dtop%3BspacingTop%3D-3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22230%22%20width%3D%22440%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2190" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H7MtAxZmlZf_EOp3D4YT-170" value=":Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H7MtAxZmlZf_EOp3D4YT-171" value=":SIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2040" y="545" width="60" height="30" as="geometry" />
@@ -562,12 +556,12 @@
         <mxCell id="H7MtAxZmlZf_EOp3D4YT-172" value=":Examencommissie&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2220" y="545" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H7MtAxZmlZf_EOp3D4YT-176" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;loop(1,5)&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=71;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;" parent="1" vertex="1">
+        <mxCell id="H7MtAxZmlZf_EOp3D4YT-176" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;loop(1, *)&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=71;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;" parent="1" vertex="1">
           <mxGeometry x="1828" y="597.5" width="302" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7MtAxZmlZf_EOp3D4YT-175" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.28;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="H7MtAxZmlZf_EOp3D4YT-175" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.829;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="H7MtAxZmlZf_EOp3D4YT-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2251.35" y="959.9949999999999" as="sourcePoint" />
+            <mxPoint x="2251" y="880" as="sourcePoint" />
             <mxPoint x="2248.93" y="579.5400000000002" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2248.64" y="794.54" />
@@ -618,7 +612,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H7MtAxZmlZf_EOp3D4YT-183" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="H7MtAxZmlZf_EOp3D4YT-183" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1890" y="710.29" as="sourcePoint" />
             <mxPoint x="2060" y="710" as="targetPoint" />
@@ -685,6 +679,9 @@
         </mxCell>
         <mxCell id="9_Ykrkwjms3u7Fb_01p0-10" value="Academisch begeleider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2010" y="95" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Ykrkwjms3u7Fb_01p0-11" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="509.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
